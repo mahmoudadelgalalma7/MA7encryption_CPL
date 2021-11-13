@@ -1,0 +1,4 @@
+MA7 Encryption:-
+
+in the encryption of MA7 : we use key that we add it to every letter at the word. 
+in the decryption of MA7 : we subtract the key from every letter at the word regularly.
